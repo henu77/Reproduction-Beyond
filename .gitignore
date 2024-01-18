@@ -1,0 +1,5 @@
+dataset/replica-dataset/*
+dataset/mp3d-dataset/*
+
+model_*/
+*.pdf
